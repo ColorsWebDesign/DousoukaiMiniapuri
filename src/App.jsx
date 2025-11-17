@@ -20,7 +20,7 @@ function App() {
   
   return (
     <div className="App">
-      {name && <p>こんにちは、{name}さん</p>}
+      {name && <p>こんばんは、{name}さん</p>}
     </div>
   );
 }
