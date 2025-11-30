@@ -20,7 +20,13 @@ function App() {
   
   return (
     <div className="App">
-      {name && <p>こんばんは、{name}さん</p>}
+      {name && <p>こんにちは、{name}さん</p>}
+      <p>同窓会ミニアプリテスト版です</p>
+
+      <div class="clm02">
+      <div>aaaaaaa</div>
+      <div>bbbbbbb</div>
+      </div>
     </div>
   );
 }
