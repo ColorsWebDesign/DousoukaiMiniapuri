@@ -31,5 +31,5 @@
 }
 
 div.clm02{width: 100%; margin:25px auto; flex-wrap: wrap; display: -webkit-flex; display: flex; -webkit-justify-content: space-between; justify-content: space-between;}
-div.clm02 div{width:calc(50%); font-size:20px; text-align: center; border:1px solid #707070;}
+div.clm02 div{width:calc(50%); font-size:20px; text-align: center; border:1px solid #707070; box-sizing: border-box;}
 div.clm02 div img{vertical-align:top;}
