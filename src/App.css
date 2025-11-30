@@ -31,5 +31,8 @@
 }
 
 div.clm02{width: 100%; margin:25px auto; flex-wrap: wrap; display: -webkit-flex; display: flex; -webkit-justify-content: space-between; justify-content: space-between;}
-div.clm02 div{width:calc(50%); font-size:20px; text-align: center; border:1px solid #707070; box-sizing: border-box;}
+div.clm02 div{width:calc(50%);border:1px solid #707070; box-sizing: border-box; background-color:#70DEF5; padding-top:70%; height:0;}
+div.clm02 div p{ font-size:20px; text-align:center; color:#fff; left:50%; top:50%; transform: translate(-50%, -50%)}
 div.clm02 div img{vertical-align:top;}
+
+div.nav{position: fixed; left: 0; bottom: 0; width: 100%;}
