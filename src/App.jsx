@@ -33,7 +33,7 @@ function App() {
           <div><p>同窓会</p></div>
           <div><p>お問い合わせ</p></div>
         </div>
-       </div>
+      </div>
     </div>
   );
 }
