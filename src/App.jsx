@@ -22,7 +22,7 @@ function App() {
     <div className="App">
       <p>登録年月日 2025/10/10</p>
       <p>未認証</p>
-      {name && <p>こんにちは</p><p><span>{name}</span>さん</p>}
+      {name && <p>こんにちは、{name}さん</p>}
       <p>同窓会ミニアプリテスト版です</p>
 
       <div class="nav">
