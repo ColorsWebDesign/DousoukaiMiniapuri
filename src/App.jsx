@@ -28,10 +28,10 @@ function App() {
 
       <div class="nav">
         <div class="clm02">
-          <div>お知らせ</div>
-          <div>プロフィール登録</div>
-          <div>同窓会</div>
-          <div>お問い合わせ</div>
+          <div><p>お知らせ</p></div>
+          <div><p>プロフィール登録</p></div>
+          <div><p>同窓会</p></div>
+          <div><p>お問い合わせ</p></div>
         </div>
        </div>
     </div>
