@@ -35,4 +35,4 @@ div.clm02 div{width:calc(50%);border:1px solid #707070; box-sizing: border-box; 
 div.clm02 div p{ font-size:20px; text-align:center; color:#fff; left:50%; top:50%; transform: translate(-50%, -50%)}
 div.clm02 div img{vertical-align:top;}
 
-div.nav{position: fixed; left: 0; bottom: 0; width: 100%;}
+div.nav{position:sticky;　top:100vh; width:100%;}
