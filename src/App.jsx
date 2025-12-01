@@ -28,7 +28,7 @@ function App() {
       <div class="nav">
         <div class="clm03">
           <div>
-            <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="お知らせ">
+            <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
           </div>
           <div><p>プロフィール登録</p></div>
           <div><p>同窓会</p></div>
