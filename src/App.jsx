@@ -27,12 +27,12 @@ function App() {
 
       <div class="nav">
         <div class="clm03">
-          <img src="../img/nav001.jpg" alt="">
-          <img src="../img/nav001.jpg" alt="">
-          <img src="../img/nav001.jpg" alt="">
-          <img src="../img/nav001.jpg" alt="">
-          <img src="../img/nav001.jpg" alt="">
-          <img src="../img/nav001.jpg" alt="">
+          <img src="../img/nav001.jpg" alt="" />
+          <img src="../img/nav001.jpg" alt="" />
+          <img src="../img/nav001.jpg" alt="" />
+          <img src="../img/nav001.jpg" alt="" />
+          <img src="../img/nav001.jpg" alt="" />
+          <img src="../img/nav001.jpg" alt="" />
         </div>
       </div>
     </div>
