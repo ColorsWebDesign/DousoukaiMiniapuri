@@ -32,6 +32,7 @@
 
 img{vertical-align:top; width:100%;}
 
+p.name span{font-size:38px; font-weight: bold;}
 div.clm01{width:100%; margin:0 auto; padding:0;}
 
 div.clm02{width: 100%; margin:0 auto; flex-wrap: wrap; display: -webkit-flex; display: flex; -webkit-justify-content: space-between; justify-content: space-between;}
