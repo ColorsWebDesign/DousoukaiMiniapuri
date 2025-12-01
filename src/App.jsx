@@ -27,12 +27,12 @@ function App() {
 
       <div class="nav">
         <div class="clm03">
-          <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
-          <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
-          <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
-          <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
-          <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
-          <img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/17b1e983da96cb9d28659384be0f2bf538efff6b/img/nav001.jpg" alt="">
+          <img src="img/nav001.jpg" alt="">
+          <img src="img/nav001.jpg" alt="">
+          <img src="img/nav001.jpg" alt="">
+          <img src="img/nav001.jpg" alt="">
+          <img src="img/nav001.jpg" alt="">
+          <img src="img/nav001.jpg" alt="">
         </div>
       </div>
     </div>
