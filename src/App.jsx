@@ -24,10 +24,11 @@ function App() {
       <div class="right">未認証</div>
       <div class="left">登録年月日 2025/10/10</div>
       </div>
-      {name && <p>こんにちは、<br /><span>{name}</span>さん</p>}
+      {name && <p class="name">こんにちは、<br /><span>{name}</span>さん</p>}
       <p>同窓会ミニアプリテスト版です</p>
 
       <div class="nav">
+        <div class="clm01"><img src="https://colors.cc/line_test/intro001.jpg" alt="お知らせ" /></div>
         <div class="clm03">
           <div><img src="https://colors.cc/line_test/nav001.jpg" alt="お知らせ" /></div>
           <div><img src="https://colors.cc/line_test/nav002.jpg" alt="プロフィール" /></div>
