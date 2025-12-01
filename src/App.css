@@ -39,4 +39,4 @@ div.clm03{width: 100%; margin:25px auto; flex-wrap: wrap; display: -webkit-flex;
 div.clm03 div{width:calc(100% / 3);}
 div.clm03 div img{vertical-align:top; width:100%;}
 
-div.nav{position:sticky;　top:100vh; width:100%;}
+div.nav{position:fixed; bottom:0; width:100%;}
