@@ -29,8 +29,8 @@ function App() {
 
       <div class="nav">
         <div class="clm03">
-          <div><img src="../img/nav001.jpg" alt="お知らせ" /></div>
-          <div><img src="../img/nav002.jpg" alt="プロフィール" /></div>
+          <div><img src="https://colors.cc/line_test/nav001.jpg" alt="お知らせ" /></div>
+          <div><img src="https://colors.cc/line_test/nav002.jpg" alt="プロフィール" /></div>
           <div><img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/582c38b5688bb475f0e8d1b1929f040889226ff4/img/nav003.jpg" alt="同窓会" /></div>
           <div><img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/582c38b5688bb475f0e8d1b1929f040889226ff4/img/nav004.jpg" alt="コミュニティ" /></div>
           <div><img src="https://github.com/ColorsWebDesign/DousoukaiMiniapuri/blob/582c38b5688bb475f0e8d1b1929f040889226ff4/img/nav005.jpg" alt="お問い合わせ" /></div>
