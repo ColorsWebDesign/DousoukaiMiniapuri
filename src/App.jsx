@@ -29,7 +29,7 @@ function App() {
       </div>
       {name && <p class="name">こんにちは、<br /><span>{name}</span>さん</p>}
       <p>同窓会ミニアプリテスト版です</p>
-<BrowserRouter>
+<Router>
       <div class="nav">
         <div class="clm01"><img src="https://colors.cc/line_test/intro001.jpg" alt="お知らせ" /></div>
         <div class="clm03">
@@ -40,21 +40,14 @@ function App() {
           <div><img src="https://colors.cc/line_test/nav005.jpg" alt="お問い合わせ" /></div>
           <div><img src="https://colors.cc/line_test/nav006.jpg" alt="設定" /></div>
 
-          <Switch>
-          {/* exactをつけると完全一致になります。Homeはexactをつけてあげます */}
-          <Route path="/page1">
-            <Page1 />
-          </Route>
-          <Route path="/page2">
-            <Page2 />
-          </Route>
-          <Route path="/page3">
-            <Page3 />
-          </Route>
-        </Switch>
+          <Routes>
+          <Route path="/page1" element={<Page1 />} />
+          <Route path="/page2" element={<Page2 />} />
+          <Route path="/page3" element={<Page3 />} />
+        </Routes>
         </div>
       </div>
-</BrowserRouter>
+</Router>
     </div>
   );
 }
